@@ -1,0 +1,80 @@
+img, p, h1, h2, .divider {
+    width: 100%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black; /* Dark blue */
+}
+
+h1 {
+    text-align: center;
+    color: #91830c;
+}
+
+h2 {
+    color: #91830c;
+}
+
+img {
+    display: block;
+    padding: 15px 0px;
+}
+
+img#europe {
+    max-width: 900px;
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+img#shot {
+    height:500px;
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+img#horse {
+    height:500px;
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.byline {
+    font-size: 16px;
+    line-height: 0.2;
+}
+
+.pubdate {
+    font-size: 14px;
+    color: #606060;
+    line-height: 1;
+}
+
+.divider {
+    height: 2px;
+    background: linear-gradient(to right,#9dbdd4,#024a7e 100%);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.author{
+    width: 100%;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#long {
+    max-width: 1000px;
+}
